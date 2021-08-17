@@ -1,0 +1,31 @@
+{
+    "image": "https://storageapi.fleek.co/skerear-team-bucket/NFTS/1.png",
+    "tokenId": "1",
+    "name": "CRYPTO TEST 1",
+    "attributes": [
+        {
+            "trait_type": "00_bg",
+            "value": "5"
+        },
+        {
+            "trait_type": "01_head",
+            "value": "GAINSBORO"
+        },
+        {
+            "trait_type": "02_body",
+            "value": "cuerpo"
+        },
+        {
+            "trait_type": "03_faces",
+            "value": "ATTRACTION"
+        },
+        {
+            "trait_type": "04-sombreros",
+            "value": "CURLY CYAN HAIR"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "1"
+        }
+    ]
+}
